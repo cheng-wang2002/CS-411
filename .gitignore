@@ -1,2 +1,5 @@
-math-exercise-platform/frontend_new/node_modules
-math-exercise-platform/backend_new/node_modules
+math-exercise-platform/frontend/node_modules
+math-exercise-platform/backend/node_modules
+
+backend_new/node_modules
+frontend_new/node_modules
